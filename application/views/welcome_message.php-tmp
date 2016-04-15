@@ -70,7 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div id="container">
 	<h1>Proyecto de Ventas</h1>
 	<div id="body">
-		
+
 	</div>
 </div>
 
